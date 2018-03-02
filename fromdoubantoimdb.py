@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 12 18:57:43 2018
 
-@author: hongwei.fhw
+@author: hw
 """
 #从豆瓣排名前250的电影分别链接到IMDB找出其评分和票房，但这个程序还有问题
 import requests
