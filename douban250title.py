@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 11 15:42:40 2018
 
-@author: hongwei.fhw
+@author: hw
 """
 
 import requests
